@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "description": "Spaghetti Bolognese is a classic Italian dish made with spaghetti, a tomato-based meat sauce, and grated Parmesan cheese. The meat sauce typically includes ground beef, onions, garlic, and canned tomatoes. It's a comforting and filling meal that's perfect for any occasion.",
+      "imageUrl": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bangladeshiRecipeName": "Spaghetti Bolognese",
+      "profileImageUrl": "https://www.example.com/images/chef1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Chicken Curry",
+      "description": "Chicken curry is a popular Indian dish that's made with chicken, onions, tomatoes, and a blend of spices. The dish is typically served with rice or naan bread. The spices used in the curry vary depending on the recipe, but may include cumin, coriander, turmeric, and garam masala.",
+      "imageUrl": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bangladeshiRecipeName": "Morog Polao",
+      "profileImageUrl": "https://www.example.com/images/chef2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Margherita Pizza",
+      "description": "Margherita pizza is a classic Italian pizza that's made with tomato sauce, mozzarella cheese, and fresh basil. It's a simple but delicious pizza that's perfect for any occasion. The pizza is typically baked in a wood-fired oven, which gives it a crispy crust and a smoky flavor.",
+      "imageUrl": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bangladeshiRecipeName": "Margherita Pizza",
+      "profileImageUrl": "https://www.example.com/images/chef3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Beef Stew",
+      "description": "Beef stew is a hearty and comforting dish that's perfect for chilly weather. It's typically made with beef, onions, carrots, potatoes, and a beef broth. The dish is seasoned with herbs such as thyme and bay leaves, and may also include red wine for added flavor.",
+      "imageUrl": "https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bangladeshiRecipeName": "Beef Rezala",
+      "profileImageUrl": "https://www.example.com/images/chef4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Sushi Rolls",
+      "description": "Sushi rolls are a popular Japanese dish that's made with cooked vinegared rice and a variety of ingredients such as fish, vegetables, and nori seaweed. The rolls are typically served with soy sauce, wasabi, and pickled ginger. Sushi rolls come in many different varieties and can be customized to suit individual tastes.",
+      "imageUrl": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "bangladeshiRecipeName": "Sushi Rolls",
+      "profileImageUrl": "https://www.example.com/images/chef5.jpg"
+    }
+  ]
+  
