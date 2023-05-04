@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Pasta Carbonara",
-        "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci enim eum tenetur animi doloremque quos nostrum delectus officia similique quasi perferendis temporibus voluptatem dignissimos, omnis reprehenderit, necessitatibus est atque harum.",
+        "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci ",
         "food_image": "https://images.unsplash.com/photo-1568625365131-079e026a927d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZCUyMGltYWdlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         "rating": 4.8,
         "cooking": "Sous vide is a cooking method that involves placing food in a vacuum-sealed bag and cooking it in a precisely controlled water bath. This technique ensures that the food is cooked evenly throughout and retains its moisture and flavor. Sous vide can be used for a wide range of foods, from steak to vegetables, and is especially popular among professional chefs for its precision and consistency. While it requires specialized equipment, home cooks can also enjoy the benefits of sous vide with the help of affordable sous vide machines now available on the market.",
