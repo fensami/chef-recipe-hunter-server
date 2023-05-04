@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Pasta Carbonara",
+        "description": " Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci enim eum tenetur animi doloremque quos nostrum delectus officia similique quasi perferendis temporibus voluptatem dignissimos, omnis reprehenderit, necessitatibus est atque harum.",
+        "food_image": "https://images.unsplash.com/photo-1568625365131-079e026a927d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZCUyMGltYWdlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "rating": 4.8,
+        "cooking": "Sous vide is a cooking method that involves placing food in a vacuum-sealed bag and cooking it in a precisely controlled water bath. This technique ensures that the food is cooked evenly throughout and retains its moisture and flavor. Sous vide can be used for a wide range of foods, from steak to vegetables, and is especially popular among professional chefs for its precision and consistency. While it requires specialized equipment, home cooks can also enjoy the benefits of sous vide with the help of affordable sous vide machines now available on the market.",
+        "bangladeshiRecipeName": "পাস্তা কার্বোনারা"
+    },
+    {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "description": "A classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil",
+        "food_image": "https://images.unsplash.com/photo-1551326844-4df70f78d0e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGZvb2QlMjBpbWFnZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "rating": 4.5,
+        "cooking": "Sous vide is a cooking method that involves placing food in a vacuum-sealed bag and cooking it in a precisely controlled water bath. This technique ensures that the food is cooked evenly throughout and retains its moisture and flavor. Sous vide can be used for a wide range of foods, from steak to vegetables, and is especially popular among professional chefs for its precision and consistency. While it requires specialized equipment, home cooks can also enjoy the benefits of sous vide with the help of affordable sous vide machines now available on the market.",
+        "bangladeshiRecipeName": "মার্গারেটা পিজা"
+    },
+    {
+        "id": 3,
+        "name": "Chicken Alfredo",
+        "description": "Fettuccine in a rich and creamy Alfredo sauce with grilled chicken",
+        "food_image": "https://media.istockphoto.com/id/1150368715/photo/duck-leg-confit.jpg?b=1&s=170667a&w=0&k=20&c=0ZcoN2hvOkKHtTBLW-T-yognB_wxyj2wMKsTdtCWWis=",
+        "rating": 4.7,
+        "cooking": "Sous vide is a cooking method that involves placing food in a vacuum-sealed bag and cooking it in a precisely controlled water bath. This technique ensures that the food is cooked evenly throughout and retains its moisture and flavor. Sous vide can be used for a wide range of foods, from steak to vegetables, and is especially popular among professional chefs for its precision and consistency. While it requires specialized equipment, home cooks can also enjoy the benefits of sous vide with the help of affordable sous vide machines now available on the market.",
+        "bangladeshiRecipeName": "চিকেন আলফ্রেডো"
+    },
+    {
+        "id": 4,
+        "name": "Tiramisu",
+        "description": "A classic Italian dessert made with ladyfingers, mascarpone cheese, and espresso",
+        "food_image": "https://media.istockphoto.com/id/542331706/photo/homemade-spicy-shrimp-tacos.jpg?b=1&s=170667a&w=0&k=20&c=WUZHzzMAuQur3xuh4NVWUWZ77_PQqf3yCkoZ5Ftsfnk=",
+        "rating": 4.9,
+        "cooking": "Sous vide is a cooking method that involves placing food in a vacuum-sealed bag and cooking it in a precisely controlled water bath. This technique ensures that the food is cooked evenly throughout and retains its moisture and flavor. Sous vide can be used for a wide range of foods, from steak to vegetables, and is especially popular among professional chefs for its precision and consistency. While it requires specialized equipment, home cooks can also enjoy the benefits of sous vide with the help of affordable sous vide machines now available on the market.",
+        "bangladeshiRecipeName": "তিরামিসু"
+    },
+    {
+        "id": 5,
+        "name": "Tiramisu",
+        "description": "A classic Italian dessert made with ladyfingers, mascarpone cheese, and espresso",
+        "food_image": "https://images.unsplash.com/photo-1568625365131-079e026a927d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Zm9vZCUyMGltYWdlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "rating": 4.9,
+        "cooking": "Sous vide is a cooking method that involves placing food in a vacuum-sealed bag and cooking it in a precisely controlled water bath. This technique ensures that the food is cooked evenly throughout and retains its moisture and flavor. Sous vide can be used for a wide range of foods, from steak to vegetables, and is especially popular among professional chefs for its precision and consistency. While it requires specialized equipment, home cooks can also enjoy the benefits of sous vide with the help of affordable sous vide machines now available on the market.",
+        "bangladeshiRecipeName": "তিরামিসু"
+    }
+]
